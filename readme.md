@@ -77,7 +77,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
 10 //          *
 ```
 ## Результат | Result
-#####а)
+##### а)
 ```plaintext
  1 // **********
  2 //  *********
