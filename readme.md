@@ -24,7 +24,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  }
 ```
 УСЛОВИЕ | CONDITION:
-#####j <= i
+##### j <= i
 ```plaintext
  1 // *
  2 // **
@@ -37,7 +37,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // *********
 10 // **********
 ```
-#####j <= matrixSize - i - 1
+##### j <= matrixSize - i - 1
 ```plaintext
  1 // **********
  2 // *********
@@ -50,7 +50,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // **
 10 // *
 ```
-#####j >= matrixSize - i - 1
+##### j >= matrixSize - i - 1
 ```plaintext
  1 //          *
  2 //         **
@@ -63,7 +63,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //  *********
 10 // **********
 ```
-#####j >= i
+##### j >= i
 ```plaintext
  1 // **********
  2 //  *********
@@ -90,7 +90,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //         **
 10 //          *
 ```
-#####б)
+##### б)
 ```plaintext
  1 // *
  2 // **
@@ -103,7 +103,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // *********
 10 // **********
 ```
-#####в)
+##### в)
 ```plaintext
  1 // **********
  2 //  ********
@@ -116,7 +116,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //
 10 //
 ```
-#####г)
+##### г)
 ```plaintext
  1 //
  2 //
@@ -129,7 +129,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //  ********
 10 // **********
 ```
-#####д)
+##### д)
 ```plaintext
  1 // **********
  2 //  ********
@@ -142,7 +142,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //  ********
 10 // **********
 ```
-#####е)
+##### е)
 ```plaintext
  1 // *        *
  2 // **      **
@@ -155,7 +155,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // **      **
 10 // *        *
 ```
-#####ж)
+##### ж)
 ```plaintext
  1 // * 
  2 // **    
@@ -168,7 +168,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // **     
 10 // *      
 ```
-#####з)
+##### з)
 ```plaintext
  1 //          *
  2 //         **
@@ -181,7 +181,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 //         **
 10 //          *
 ```
-#####и)
+##### и)
 ```plaintext
  1 // **********
  2 // *********
@@ -194,7 +194,7 @@ Hello, everyone! I believe many of you have encountered assignments from the STE
  9 // **
 10 // *
 ```
-#####к)
+##### к)
 ```plaintext
  1 //          *
  2 //         **
